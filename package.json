@@ -1,0 +1,14 @@
+{
+  "name": "app-aws-runner-demo",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "AWS App Runner Example",
+  "main": "server.js",
+  "scripts": {
+      "start": "node server.js"
+  },
+  "dependencies": {
+      "cors": "^2.8.5",
+      "express": "^4.16.1"
+  }
+}
